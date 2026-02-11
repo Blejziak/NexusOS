@@ -1,4 +1,0 @@
-  git add .github
-   git commit -m "Add build workflow"
-   git push
-   
